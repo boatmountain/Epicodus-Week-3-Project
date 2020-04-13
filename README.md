@@ -25,11 +25,12 @@ This program will demonstrate use of loops and arrays with Javascript.  This pro
 
 ## Setup/Installation Requirements
 
-* _
+* Go to https://boatmountain.github.io/Epicodus-Week-3-Project/
 
 ## Known Bugs
 
 Not operational currently - 4/3/20
+Operational - 4/13/20
 
 ## Support and contact details
 
