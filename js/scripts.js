@@ -10,7 +10,7 @@ function beepBoop(userInput){
         }  else if(i.toString().includes("1")) {
             beepBoopArray.push("Beep!");
         }  else{
-            beepBoopArray,push(" " + i);
+            beepBoopArray.push(" " + i);
         }
     }
     console.log(userInput);
@@ -26,6 +26,7 @@ $(document).ready(function(){
         var userInput = parseInt($("input#userInput").val());
         var result = beepBoop(userInput);
 
-        
+        $(".resultDiv").show();
+        $("#resultParagraph").text(result);
     })
-})
+});
