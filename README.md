@@ -10,7 +10,7 @@ This program will demonstrate use of loops and arrays with Javascript. This prog
 
 ## Hint
 
-<li>Enter 375 for the whole picture.
+<li>Enter 375 for the whole picture.375
 
 ## Behavior
 
