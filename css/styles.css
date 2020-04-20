@@ -16,7 +16,7 @@ label {
 }
 
 body {
-  background-image: radial-gradient(
+  background-image: repeating-radial-gradient(
     red,
     pink,
     orange,
@@ -32,4 +32,9 @@ body {
   background-repeat: none;
   background-position: center;
   background-size: 100% 100%;
+}
+
+p {
+  font-size: 30px;
+  color: white;
 }
