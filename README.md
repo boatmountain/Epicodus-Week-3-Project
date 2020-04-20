@@ -1,6 +1,6 @@
 # Epicodus Week 3 Project 
 
-#### JavascriptLoops and Arrays, April 3, 2020
+#### Javascript Loops and Arrays, April 3, 2020
 
 #### By Dominic Montelongo
 
