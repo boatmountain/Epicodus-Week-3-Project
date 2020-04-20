@@ -11,6 +11,10 @@ label {
   color: white;
 }
 
+.btn {
+  color: white;
+}
+
 body {
   background-image: radial-gradient(
     red,
