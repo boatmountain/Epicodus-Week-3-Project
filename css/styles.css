@@ -1,0 +1,10 @@
+.container {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwonderfulengineering.com%2Fwp-content%2Fuploads%2F2013%2F11%2Fretro-robot-wallpaper.jpg&f=1&nofb=1");
+  background-image: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: 0px;
+}
+
+body
