@@ -8,6 +8,10 @@
 
 This program will demonstrate use of loops and arrays with Javascript. This program named Mr Roger's Neighborhood" will replace digits with phrases or digits depending on what numbers they contain.
 
+## Hint
+
+<li>Enter 375 for the whole picture.
+
 ## Behavior
 
 | Behavior Driven Development |
@@ -31,7 +35,7 @@ This program will demonstrate use of loops and arrays with Javascript. This prog
 
 Not operational currently - 4/3/20
 Operational - 4/13/20
-Operational - 4/29/20
+Operational - 4/19/20
 
 ## Support and contact details
 
